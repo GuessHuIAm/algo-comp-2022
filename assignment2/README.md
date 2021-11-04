@@ -4,6 +4,8 @@ In this assignment, you will implement the Gale-Shapley algorithm for monogamous
 
 This assignment will be implemented in **Python** and all your code will be in the `match.py` file, specifically the `run_matching` function.
 
+There are further instructions in the function docstring. Please pay careful attention to these.
+
 ## A Primer/Review of Gale-Shapley
 
 If you weren't able to make it to the last comp meeting, or if you simply want a refresher of Gale-Shapley, be sure to check out the `Gale_Shapley_Matching.pdf` document.
@@ -18,7 +20,7 @@ This assignment is due on **Tuesday, November 9th at 11:59 PM EST**. We recommen
 ## Running Your Code
 ```python3 match.py```
 
-The `is_stable` function will confirm whether or not the matching your implemented function produced is indeed stable.
+Please verify that the matching your produced is indeed stable.
 
 ## Collaboration
 In a nutshell: discussing theory with others is good; copying code directly is bad. We trust you to collaborate reasonably intelligently.  
